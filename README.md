@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chido34
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently practicing Data Analysis on SQL, Excel, Python and Tableau
+- 💞️ I’m looking to collaborate in anything in Data Analysis
+- 📫 Don't hesitate to reach me at rridane@gmail.com
